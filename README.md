@@ -32,10 +32,21 @@ C++의 **기초 문법부터 객체지향 설계, 모던 C++까지** 체계적�
 
 ## 👥 스터디 멤버
 
-- 고형주  
-- 송명석  
-- 한지윤  
-- 허재웅  
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/han-skyler"><img src="https://github.com/han-skyler.png" width="120px" alt=""></img></a></td>
+        <td align="center"><a href="https://github.com/corlexvusR"><img src="https://github.com/corlexvusR.png" width="120px" alt=""></img></a></td>
+        <td align="center"><a href="https://github.com/wkdgjwodnd"><img src="https://github.com/wkdgjwodnd.png" width="120px" alt=""></img></a></td>
+        <td align="center"><a href="https://github.com/sms1875"><img src="https://github.com/sms1875.png" width="120px" alt=""></img></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/han-skyler"><b>han-skyler</b></a></td>
+        <td align="center"><a href="https://github.com/corlexvusR"><b>corlexvusR</b></a></td>
+        <td align="center"><a href="https://github.com/wkdgjwodnd"><b>wkdgjwodnd</b></a></td>
+        <td align="center"><a href="https://github.com/sms1875"><b>sms1875</b></a></td>
+    </tr>
+
+</table>
 
 ---
 
